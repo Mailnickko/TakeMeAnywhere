@@ -25,12 +25,10 @@
                         - Barack Obama
 
   > "The city can get so tiring and busy. I just needed to go to nature. #TMA sent me to the Tundra. Much Adventure."
-                        - Snoop Dogg
+                        - Snoop Doggy Dogg
 
 ## Closing and Call to Action ##
   > Life's short. Get away when you can.
-
-
 
 
 
