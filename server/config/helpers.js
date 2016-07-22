@@ -1,5 +1,9 @@
 var request = require('request');
-var apikey = require('../key').api_key;
+if (process.env.NODE_ENV === 'production') {
+  var apikey = process.env.API_KEY;
+} else {
+  var apikey = require('../key').api_key;
+}
 
 exports.getFlights = function(origin, dest, depart, returned, priceLimit, adults, kids, city, cb ){
 
